@@ -7,7 +7,7 @@
     
     
 
-    $email_from = 'jcuntalan.com';
+    $email_from = 'https://jesyiii16.github.io/Jeysiii16.github.io/';
 
     $email_subject = "New Form Submission";
 
@@ -26,4 +26,5 @@
 
     header("Location: index.html");
     
+
 ?>
