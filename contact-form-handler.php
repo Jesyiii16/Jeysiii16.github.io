@@ -7,7 +7,7 @@
     
     
 
-    $email_from = 'https://jesyiii16.github.io/Jeysiii16.github.io/';
+    $email_from = 'jcuntalan.com';
 
     $email_subject = "New Form Submission";
 
@@ -28,5 +28,6 @@
     
 
 ?>
+
 
 
